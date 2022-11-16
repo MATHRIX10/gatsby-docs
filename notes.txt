@@ -1,0 +1,28 @@
+--------------------- part 0 : set up the environment variable ----------------- 
+GraphQL : a query language that allows to pull data into the website 
+for more info on GraphQL : https://www.howtographql.com/ 
+
+- we will use git to push the code to the cloud 
+- gatsby CLI : its a npm package 
+- install gatsby CLI : npm install -g gatsby-cli 
+
+
+--------------------- part 1 : create a deploy the first site with gatsby ----------------- 
+
+1 - create gatsby site 
+
+
+>> gatsby new 
+>> gatsby develop 
+
+
+-- push code to github -- 
+>> create a new repo 
+>> git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_REPO_NAME.git
+>> git branch -M main
+>> git push -u origin main
+
+----- deploy the site on gatsby coud --------- 
+>> add a site 
+>> import from github repo 
+>> 
