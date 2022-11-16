@@ -25,4 +25,11 @@ for more info on GraphQL : https://www.howtographql.com/
 ----- deploy the site on gatsby coud --------- 
 >> add a site 
 >> import from github repo 
->> 
+>> import 
+>> next 
+>> build 
+
+
+
+--------------------- part 2 : Use and style React Component ----------------- 
+
